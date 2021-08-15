@@ -19,3 +19,16 @@ Eagle是一款功能强大、使用高效的图片管理工具，具有图片素
 https://www.bypass.cn/
 分流抢票，是以用户为中心、人性化的抢票软件。不做广告、不做推广、不携带病毒、不收集隐私信息，并接受各方技术评测，全心全意为用户打造一款属于自己的抢票软件
 
+
+http://translate.google.cn/
+谷歌翻译
+
+
+https://vivaldi.com/
+浏览器
+
+http://www.potplayer.org/
+播放器
+
+
+
