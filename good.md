@@ -37,4 +37,6 @@ http://www.potplayer.org/
 播放器
 
 
+https://tinypng.com/
+特别好的png jpeg图片压缩工具
 
