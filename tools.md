@@ -33,3 +33,26 @@ https://github.com/pqrs-org/Karabiner-Elements
 Mac改键软件Karabiner
 
 
+
+
+## https://www.iconfinder.com/search?q=&price=free
+ICONFINDER 是一个在设计圈中广为人知的图标搜索网站，它界面设计清晰且简洁，只要在网站中输入关键字即可找到需要的不同颜色图标！
+使用说明：
+ICONFINDER 包含免费及付费的 icon，如果想要使用免费商用授权的图标，请在搜索页面左边的筛选器中选择Free，即可使用。
+
+## premiumpixels.com/
+如果你真的不知道要使用什么图标的话，Premium Pixel 提供了专家精挑细选的免费图标，你可以在这里搜索各种免费素材和界面图标的懒人包。
+使用说明：
+所有资源都是免费授权使用，几乎没有限制。
+
+
+## 1001freedownloads.com/
+1001FreeDownloads 是一个很著名的网站，直至今日他们每天都不断的增加免费可下载的内容。它目前拥有数以千计的免费矢量、照片、画笔、渐变、PSD 和字体文件供大家免费下载。
+
+
+使用说明：
+
+可以在个人和商业作品中使用网站内的所有图标，无需要注明出处及原始链接，但如果你愿意注明作者或出处，我们会很感激你。
+
+
+
