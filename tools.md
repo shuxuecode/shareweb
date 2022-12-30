@@ -60,5 +60,8 @@ ICONFINDER 包含免费及付费的 icon，如果想要使用免费商用授权�
 
 超好用的redis在线命令行工具
 
+## https://degraeve.com/img2txt.php
+可以将图片转为文本
+
 
 
